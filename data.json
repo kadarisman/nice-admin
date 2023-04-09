@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "postion": "Designer",
+            "age": 33,
+            "start": "2022-09-02"
+        },
+        {
+            "id": 2,
+            "name": "Mark Simone",
+            "postion": "Developer",
+            "age": 33,
+            "start": "2022-09-02"
+        },
+        {
+            "id": 3,
+            "name": "Alex Desta",
+            "postion": "Ui Ux",
+            "age": 33,
+            "start": "2022-09-02"
+        }
+    ]
+}
