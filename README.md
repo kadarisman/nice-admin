@@ -1,5 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-This is a modification to the Nextjs version of the original template [Nice Admin](https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template/) created with html css Bootstrap by [BootstrapMade](https:// bootstrapmade.com/)
+
+This is a modification to the Nextjs version of the original template [Nice Admin](https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template/) created with html css Bootstrap by [BootstrapMade](https://bootstrapmade.com/)
 
 ## Getting Started
 
